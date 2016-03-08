@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="ok">Okay</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit_text">Enter some text.</string>
+    <string name="input_text">Input Text</string>
+    <string name="action_new">New</string>
+    <string name="action_open">Open</string>
+    <string name="action_saveAs">Save As</string>
+    <string name="action_save">Save</string>
+</resources>
